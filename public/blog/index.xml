@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuxian Xu</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Yuxian Xu</description>
+    <title>Recents Article on Yuxian Xu</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Recents Article on Yuxian Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Formatting Demo</title>
       <link>http://localhost:1313/blog/markdown-formatting-demo/</link>
@@ -25,33 +25,6 @@ This is italic text</description>
     </item>
     
     <item>
-      <title>Recipe App Ux Study</title>
-      <link>http://localhost:1313/portfolio/recipe-app-ux-study/</link>
-      <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/recipe-app-ux-study/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>UX Case Study for Agriculture App</title>
-      <link>http://localhost:1313/portfolio/ux-case-study-for-agriculture-app/</link>
-      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/ux-case-study-for-agriculture-app/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Event App Case Study</title>
-      <link>http://localhost:1313/portfolio/event-app-case-study/</link>
-      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/event-app-case-study/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
       <title>Designer Conference at Florida 2020</title>
       <link>http://localhost:1313/blog/designer-conference-at-florida-2020/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
@@ -66,15 +39,6 @@ This is italic text</description>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
       <guid>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Case Study One</title>
-      <link>http://localhost:1313/portfolio/case-study-one/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/case-study-one/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
