@@ -14,6 +14,8 @@ tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
 tab2Target: experience
+button3Name: Download CV
+button3Target: /docs/Yuxian_Xu-Full_Stack_Developer-02202022.pdf
 
 education:
   - content: >
@@ -67,3 +69,5 @@ experience:
   
       - Founded marketing and sales team. Trained and mentored 3 supervisors. Achieved monthly revenue around 210k USD.
     time: 2014-2017
+ 
+

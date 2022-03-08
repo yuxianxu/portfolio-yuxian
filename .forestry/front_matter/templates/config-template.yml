@@ -67,6 +67,9 @@ fields:
     name: copyright
     label: copyright
   - type: text
+    name: copyright2
+    label: copyright2
+  - type: text
     name: googleAnalytics
     label: googleAnalytics
   - type: text

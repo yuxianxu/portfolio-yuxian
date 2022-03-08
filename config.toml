@@ -40,7 +40,7 @@ weight = 8
 # Sitemap Menu
 [[menu.sitemap]]
 name = "About me"
-url = "about"
+url = "#about"
 weight = 1
 [[menu.sitemap]]
 name = "Frequently Ask Question"
@@ -52,13 +52,14 @@ url = "#"
 weight = 3
 [[menu.sitemap]]
 name = "Latest Article"
-url = "#"
+url = "blog"
 weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Yuxian Xu 2022"
+copyright = "Copyright © 2022 Developed by Yuxian Xu" 
+copyright2 = "a Hugo site theme By staticmania" 
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mwkybyej"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"

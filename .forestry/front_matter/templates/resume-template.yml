@@ -24,6 +24,12 @@ fields:
   name: tab2Name
   label: tab2Name
 - type: text
+  name: button3Name
+  label: button3Name
+- type: text
+  name: button3Target
+  label: button3Target
+- type: text
   name: tab1Target
   label: tab1Target
 - type: text

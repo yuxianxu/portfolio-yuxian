@@ -14,5 +14,5 @@ content: >
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
-button2Target: contact
+button2Target: /docs/Yuxian_Xu-Full_Stack_Developer-02202022.pdf
 image: images/about/about-img.jpg
