@@ -1,0 +1,69 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  To leverage over 10 years of experience in telemedicine and healthcare startups to quickly learn and grow in a web development career. 
+  
+  
+  Results-driven web developer, seeking to use proven front-end and back-end stack to deliver coding excellence.
+  Have developed 8 web apps.
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Web Development
+
+      ###### BrainStation | Diploma
+
+      >In this cohort-based coding bootcamp, I learned how to build and deploy the real-world industry web applications using Node.js, MySQL, JavaScript, REST API, React, Git, JIRA, Passport.js, Postman, Jest and Heroku.   
+    time: 2021-2022
+  - content: >
+      ####  Master of Business Administration 
+
+      ###### Capital University of Economics and Business | MBA
+      
+      From three years MBA program, I learned accounting, finance, marketing, business law and management with a focus on leadership, planning, business strategy, organizational behavior, and the more human sides of running a large or small business.
+    time: 2006-2009
+ 
+  - content: >
+      #### Peking Union Medical College | Biochemistry
+
+      Involved Human Genome Project (HGP) as an intern isolating DNA, doing PCR, and sequencing the DNA.
+    time: 1998-2001
+
+experience:
+  - content: >
+      ### NextBoat Inc.
+
+      ##### Full Stack Engineer. 
+
+      - Develop and build four functional websites including e-commerce store, landing page and portfolio. 
+      
+      - Keep learning full stack technologies such as AWS, tailwind CSS, headless CMS, system design, and distributed system.
+    time: 2021-Present
+  - content: >
+      ### Triple C Comm
+
+      ##### WordPress and Mailchimp Developer
+
+      - Created blogs for three online pharmacy websites, health related contents for weekly newsletter emailers, product landing pages, social media graphics, new subscription forms, and promotion pages for 100K+ users.        
+      
+      - Improved weekly newsletter links-click rate from 2.1% to 4.8%.
+      
+      - Submitted and resolved 150+ issues of websites and helped on google SEO. 
+    time: 2020-2021
+  - content: >
+      ### QuantumHealth
+     
+      ##### Co-founder
+
+      - Chaired the development of the telemedicine project - online healthcare system, which served 23,000 patients and 540+ health and clinic providers.
+  
+      - Founded marketing and sales team. Trained and mentored 3 supervisors. Achieved monthly revenue around 210k USD.
+    time: 2014-2017

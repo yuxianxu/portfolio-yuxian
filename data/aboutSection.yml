@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Enjoy being a problem solver, pushing boundaries, delivering on goals.
+content: >
+  ### I develop and build ultimate things.
+ 
+  I love to learn and try new things. 
+
+  >Because I love to solve the development problems and find easy and better solutions to solve them. 
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About Me?
+
+testimonial:
+  - name: Ryan Cook
+    comment: To be updated
+    time: Jan 20, 2020
+    star: 5
+  - name: Justin Trudo
+    comment: To be updated
+    time: Jan 16, 2020
+    star: 5
+  - name: Franky Filth
+    comment: To be updated
+    time: Mar 08, 2020
+    star: 5

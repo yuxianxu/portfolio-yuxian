@@ -1,0 +1,28 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+   I had been running startups. And I know what the pain points that the small business owners have, and what services they love. 
+   
+   >Always try my best to make good user interface with the best user experience.
+service:
+  - content: >
+      #### Web Development 
+
+      Designing and prototyping fancy, modern, safe and full-featured websites and apps, to suite customers' needs without costing too much. 
+
+    image: images/service/web.svg
+  - content: >
+      #### Email integration
+
+      Connecting email service to customers' websites, apps and e-commerce store. Designing customized emailer for targeted users.
+    image: images/service/creative.svg
+  - content: >
+      #### Social media marketing 
+
+      Helping customers find more new users, and maintain users' community.
+    image: images/service/creative.svg
+
+
