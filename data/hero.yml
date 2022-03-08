@@ -2,7 +2,7 @@
 enable: true
 topTitle: Hello, I am Yuxian
 content: >
-  # A full stack software engineer
+  ### A full stack software engineer
 
   I design & build web applications for your business needs, with front-end and back-end technologies.
 buttonName: Contact me
