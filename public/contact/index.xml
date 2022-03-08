@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Me on Yuxian Xu</title>
-    <link>http://localhost:1313/contact/</link>
+    <link>https://yuxian.netlify.app/contact/</link>
     <description>Recent content in Contact Me on Yuxian Xu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://yuxian.netlify.app/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
