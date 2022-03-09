@@ -58,7 +58,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Copyright © 2022 Developed by Yuxian Xu" 
+copyright = "Copyright © 2022 Developed by Yuxian Xu. Built on Hugo, StaticMania theme" 
 copyright2 = "a Hugo site theme By staticmania" 
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mwkybyej"
